@@ -28,6 +28,9 @@ url: "https://namhaikiong.github.io"
 github:
   username: namhaikiong # change to your github username
 
+facebook:
+  username: profile.php?id=10008887097481
+
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
